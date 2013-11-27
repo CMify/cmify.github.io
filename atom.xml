@@ -4,7 +4,7 @@
   <subtitle><![CDATA[WebUI for Configuration Management]]></subtitle>
   <link href="http://blog.cmify.com/atom.xml" rel="self"/>
   <link href="http://blog.cmify.com"/>
-  <updated>2013-11-27T00:47:56.924Z</updated>
+  <updated>2013-11-27T00:54:42.770Z</updated>
   <id>http://blog.cmify.com/</id>
   <author>
     <name><![CDATA[Jaanus Torp]]></name>
@@ -13,12 +13,11 @@
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
     <title type="html"><![CDATA[Say hi to CMify]]></title>
-    <link href="http://blog.cmify.com/2013/11/27/hello-world/"/>
-    <id>http://blog.cmify.com/2013/11/27/hello-world/</id>
-    <published>2013-11-26T23:41:42.000Z</published>
-    <updated>2013-11-27T00:47:53.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://cmify.com" target="_blank">CMify</a>!</p>
-<p>Radically easy way to get started with Configuration management.</p>
+    <link href="http://blog.cmify.com/2013/11/27/say-hi-to-cmify/"/>
+    <id>http://blog.cmify.com/2013/11/27/say-hi-to-cmify/</id>
+    <published>2013-11-27T00:52:50.000Z</published>
+    <updated>2013-11-27T00:54:26.000Z</updated>
+    <content type="html"><![CDATA[<p>Say Hi! to <a href="https://cmify.com" target="_blank">CMify</a> - a radically simple way to start with Configuration Management.</p>
 ]]></content>
   </entry>
 </feed>
